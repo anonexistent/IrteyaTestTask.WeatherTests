@@ -16,5 +16,5 @@ public class WeatherPage : BasePage
     public IWebElement Table => Driver.FindElement(By.CssSelector("table.table"));
 
     public List<T> ParseTable<T>() where T : new()
-        => TableParser.ParseTable<T>(Table);
+        => TableParser.Parse<T>(Table);
 }
