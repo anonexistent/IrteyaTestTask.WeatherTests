@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="../IrteyaTestTask.UI/src/IrteyaTestTask.UI.Application/IrteyaTestTask.UI.Application.csproj" />
+  <Project Path="../IrteyaTestTask.UI/src/IrteyaTestTask.UI.Domain/IrteyaTestTask.UI.Domain.csproj" />
+  <Project Path="../IrteyaTestTask.UI/src/IrteyaTestTask.UI.Infrastructure/IrteyaTestTask.UI.Infrastructure.csproj" />
+  <Project Path="../IrteyaTestTask.UI/src/IrteyaTestTask.UI.Services/IrteyaTestTask.UI.Services.csproj" />
+  <Project Path="IrteyaTestTask.WeatherTests.Config/IrteyaTestTask.WeatherTests.Config.csproj" />
+  <Project Path="IrteyaTestTask.WeatherTests.Tests/IrteyaTestTask.WeatherTests.Tests.csproj" />
+  <Project Path="IrteyaTestTask.WeatherTests/IrteyaTestTask.WeatherTests.Console.csproj" />
+  <Project Path="IrteyaTestTask.WheatherTests.WebDriver/IrteyaTestTask.WheatherTests.WebDriver.csproj" />
+</Solution>
